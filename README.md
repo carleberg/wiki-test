@@ -1,2 +1,2 @@
 # wiki-test
-Testing wiki stuff.
+Repo for testing wiki. This is an .md file.
